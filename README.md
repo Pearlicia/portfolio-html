@@ -1,1 +1,1 @@
-# An HTML portfolio site
+# A static portfolio site
