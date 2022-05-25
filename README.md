@@ -1,3 +1,3 @@
 # A static portfolio site built with HTML, 
-# CSS, AWS, cloud formation, S3, route53
+# CSS, AWS, cloud formation, codebuild and codepipeline, S3, route53
 
